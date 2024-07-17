@@ -28,7 +28,7 @@ const MovieCard = ({ movie }) => {
       <View style={styles.textContainer}>
         <Text style={styles.title}>{movie.title}</Text>
         {movie.author_name && <Text style={styles.author}>By {movie.author_name[0]}</Text>}
-        {movie.first_publish_year && <Text style={styles.year}>Published: {movie.first_publish_year}</Text>}
+        {movie.first_publish_year && <Text style={styles.year}>Released: {movie.first_publish_year}</Text>}
       </View>
     </View>
   );
