@@ -35,6 +35,6 @@ This is a React Native application built with Expo that allows users to search f
 Use the Expo app on your mobile device to scan the QR code and run the app.
 
 ### Screenshots
-![a1](assets/a1.jpeg)
-![a2](assets/a2.jpeg)
-![a3](assets/a3.jpeg)
+<img src="assets/a1.jpeg" alt="Alt text" width="300"/>
+<img src="assets/a2.jpeg" alt="Alt text" width="300"/>
+<img src="assets/a3.jpeg" alt="Alt text" width="300"/>
